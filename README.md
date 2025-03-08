@@ -1,7 +1,7 @@
 **Privacy Policy**
 
-**Effective Date:** [Insert Date]  
-**Last Updated:** [Insert Date]  
+**Effective Date:** 07/03/25  
+**Last Updated:** 07/03/25   
 
 **Words Meaning Launcher** ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App"). Please read this policy carefully. By using the App, you agree to the terms of this Privacy Policy.
 
